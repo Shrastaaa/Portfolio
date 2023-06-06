@@ -5,11 +5,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         Shrasta Niraula
-        <p>
-        I am Shrasta Niraula.
-      </p>
       </header>
-     
     </div>
   );
 }
