@@ -1,0 +1,17 @@
+/* // DemonWoods.module.css */
+.root {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 100vh;
+    /* Adjust as per your requirement */
+}
+
+.layer {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
