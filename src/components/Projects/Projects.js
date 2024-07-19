@@ -17,17 +17,17 @@ function Projects() {
       <Particle />
       <Container>
         <h1 className="project-heading">
-          My Recent <strong className="purple">Works </strong>
+          My Recent <strong className="purple"> Works </strong>
         </h1>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
-              title="Pandora"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
-              ghLink="https://github.com/soumyajit4419/Chatify"
-              demoLink="https://chatify-49.web.app/"
+              title="Serophero"
+              description="Developed an app to verify local news and events, incorporating in-app chat, payment functionalities, and a community blacklist system. Added a suggestion box with profane detection using NLTK. Technologies: Flutter, Django REST, Postgres, React, Firebase, AI."
+              ghLink="https://github.com/shrastaniraula/new_serophero.git"
+            // demoLink="https://chatify-49.web.app/"
             />
           </Col>
 
@@ -35,9 +35,9 @@ function Projects() {
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
-              title="Bits-0f-C0de"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
+              title="Data Cleaning Project"
+              description="Analyzed sales data for ABC Company, focusing on data cleaning, preprocessing, and trend identification. Utilized Pandas, Numpy, Seaborn, and Matplotlib in Jupyter Notebook to derive actionable insights on sales performance and customer behavior."
+              ghLink="https://github.com/shrastaniraula/DataCleaning.git"
               demoLink="https://blogs.soumya-jit.tech/"
             />
           </Col>
@@ -46,9 +46,9 @@ function Projects() {
             <ProjectCard
               imgPath={editor}
               isBlog={false}
-              title="Editor.io"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
-              ghLink="https://github.com/soumyajit4419/Editor.io"
+              title="Pandora"
+              description="Created a chatbot to answer questions about mental health using NLTK. This project focused on providing accessible mental health information."
+              ghLink="\https://github.com/shrastaniraula/Pandora.git"
               demoLink="https://editor.soumya-jit.tech/"
             />
           </Col>

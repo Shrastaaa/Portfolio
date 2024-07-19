@@ -53,7 +53,7 @@ function Home() {
               </div>
               <div style={{ paddingLeft: 45, textAlign: "left" }} className="fork-btn">
                 <Button
-                  href="https://github.com/soumyajit4419/Portfolio"
+                  href="https://www.linkedin.com/in/shrasta-niraula/"
                   target="_blank"
                   className="fork-btn-inner"
                 >
