@@ -26,7 +26,7 @@ function Projects() {
               isBlog={false}
               title="Serophero"
               description="Developed an app to verify local news and events, incorporating in-app chat, payment functionalities, and a community blacklist system. Added a suggestion box with profane detection using NLTK. Technologies: Flutter, Django REST, Postgres, React, Firebase, AI."
-              ghLink="https://github.com/shrastaniraula/new_serophero.git"
+              ghLink="https://github.com/shrastaniraula/serophero_frontend.git"
             // demoLink="https://chatify-49.web.app/"
             />
           </Col>
@@ -48,7 +48,7 @@ function Projects() {
               isBlog={false}
               title="Pandora"
               description="Created a chatbot to answer questions about mental health using NLTK. This project focused on providing accessible mental health information."
-              ghLink="\https://github.com/shrastaniraula/Pandora.git"
+              ghLink="https://github.com/shrastaniraula/Pandora.git"
               demoLink="https://editor.soumya-jit.tech/"
             />
           </Col>
